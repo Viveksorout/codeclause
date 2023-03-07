@@ -1,3 +1,2 @@
-# codeclause
-# project 1
+# codeclause project 1
 Unit converter project
